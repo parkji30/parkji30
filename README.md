@@ -1,7 +1,7 @@
 ### Hi there 👋
 My name is James Park and I am currently a research scientist at Queens University studying the role of magnetic fields in star formation.
 
-I am primarily a experimental/computational physicist and all my work can be found on my Github. On the side, I enjoy developing open source software to aid other scientists in their research.
+I enjoy developing open source software to aid other scientists in their research.
 
 I have am currently developing (or have developed):
 <ol>  
