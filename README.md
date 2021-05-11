@@ -15,7 +15,7 @@ I have am currently developing (or have developed):
 <br>
 👯 I’m looking to collaborate on developing OACpy (and my other projects).
 
-<h3>Contact </h3>
+<h3>Contact :bookmark_tabs: </h3>
 <ol>
     <li>Email- 20jjp1@queensu.ca </li>   
     <li>Department of Physics, Astronomy, Engineering Physics at Queens University</li>
