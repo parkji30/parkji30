@@ -9,12 +9,13 @@ I am currently developing (or have developed):
     <li> Astrometry Automated- A simple Python script which automatically records any solution found in a directory of images. </li>
 </ol>
 
-### Interests :bookmark_tabs: 
+### Interests 
 🔭 My focus is on studying magnetism in star forming regions.
 <br>
 🌱 I’m currently learning image processing techniques.
 <br>
 👯 I’m looking to collaborate on developing OACpy (and my other projects).
+
 
 ### Contact :bookmark_tabs: 
 <ol>
