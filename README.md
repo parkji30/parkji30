@@ -17,6 +17,6 @@ I have am currently developing (or have developed):
 
 <h3>Contact :bookmark_tabs: </h3>
 <ol>
-    <li>Email- 20jjp1@queensu.ca </li>   
-    <li>Department of Physics, Astronomy, Engineering Physics at Queens University</li>
+    <ul>Email- 20jjp1@queensu.ca </ul>   
+    <ul>Department of Physics, Astronomy, Engineering Physics at Queens University</ul>
 </ol>
