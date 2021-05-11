@@ -2,7 +2,7 @@
 My name is James Park and I am currently a research scientist at Queens University studying the role of magnetic fields in star formation.
 
 I enjoy developing open source software to aid other scientists in their research. 
-I have am currently developing (or have developed):
+I am currently developing (or have developed):
 <ol>  
     <li> OACpy- a compression optimization software that can be used in any data pipeline.</li>
     <li> DCF_Python- The modified Davis Chandrasekhar Fermi method used to calculate the magnetic field strength in the ISM via polarization of lights. </li>
