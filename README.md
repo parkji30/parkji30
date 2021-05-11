@@ -9,13 +9,14 @@ I am currently developing (or have developed):
     <li> Astrometry Automated- A simple Python script which automatically records any solution found in a directory of images. </li>
 </ol>
 
+### Interests :bookmark_tabs: 
 🔭 My focus is on studying magnetism in star forming regions.
 <br>
 🌱 I’m currently learning image processing techniques.
 <br>
 👯 I’m looking to collaborate on developing OACpy (and my other projects).
 
-<h3>Contact :bookmark_tabs: </h3>
+### Contact :bookmark_tabs: 
 <ol>
     <ul>Email- 20jjp1@queensu.ca </ul>   
     <ul>Department of Physics, Astronomy, Engineering Physics at Queens University</ul>
