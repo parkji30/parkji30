@@ -9,7 +9,7 @@ I am currently developing (or have developed):
     <li> Astrometry Automated- A simple Python script which automatically records any solution found in a directory of images. </li>
 </ol>
 
-### Interests 
+### Interests :atom:
 🔭 My focus is on studying magnetism in star forming regions.
 <br>
 🌱 I’m currently learning image processing techniques.
