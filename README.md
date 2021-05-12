@@ -5,7 +5,7 @@ I enjoy developing open source software to aid other scientists in their researc
 I am currently developing (or have developed):
 <ol>  
     <li> OACpy- a compression optimization software that can be used in any data pipeline.</li>
-    <li> DCF_Python- The modified Davis Chandrasekhar Fermi method used to calculate the magnetic field strength in the ISM via polarization of lights. </li>
+    <li> Modified-DCF_Python- The modified Davis Chandrasekhar Fermi method based off the paper written by Houde et al. 2009.</li>
     <li> Astrometry Automated- A simple Python script which automatically records any solution found in a directory of images. </li>
 </ol>
 
