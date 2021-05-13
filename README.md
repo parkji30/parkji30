@@ -11,11 +11,12 @@ I am currently developing (or have developed):
 
 ### Interests :atom:
 🔭 My focus is on studying magnetism in star forming regions.
-<br>
-🌱 I’m currently learning image processing techniques.
-<br>
-👯 I’m looking to collaborate on developing OACpy (and my other projects).
-
+<ol>
+    <br>
+    🌱 I’m currently learning image processing techniques.
+    <br>
+    👯 I’m looking to collaborate on developing OACpy (and my other projects).
+</ol>
 
 ### Contact :bookmark_tabs: 
 <ol>
