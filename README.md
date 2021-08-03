@@ -15,7 +15,7 @@ I am currently developing (or have developed):
     <br>
     🌱 I’m currently learning image processing techniques.
     <br>
-    👯 I’m looking to collaborate on developing OACpy (and my other projects).
+    👯 I’m looking to collaborate on developing MagnaPY (and my other projects).
 </ol>
 
 ### Contact :bookmark_tabs: 
