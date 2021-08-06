@@ -14,7 +14,6 @@ I am currently developing (or have developed):
     <br>
     🌱 I’m currently learning image processing techniques.
     <br>
-     <br>
     🌱 I am also making the slow (but certain) transition towards Machine Learning.
     <br>
 </ol>
