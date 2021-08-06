@@ -4,9 +4,8 @@ My name is James Park and I am currently a research scientist at Queens Universi
 I enjoy developing open source software to aid other scientists in their research. 
 I am currently developing (or have developed):
 <ol>  
-    <ul> OACpy- a compression optimization software that can be used in any data pipeline.</ul>
-    <ul> Modified-DCF_Python- The modified Davis Chandrasekhar Fermi method based off the paper written by Houde et al. 2009.</ul>
-    <ul> Astrometry Automated- A simple Python script which automatically records any solution found in a directory of images. </ul>
+    <ul> MagnaPY- a compression optimization software that can be used in any data pipeline.</ul>
+    <ul> MDCF - The modified Davis Chandrasekhar Fermi method based off the paper written by Houde et al. 2009.</ul>
 </ol>
 
 ### Interests :atom:
