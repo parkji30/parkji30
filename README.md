@@ -14,7 +14,9 @@ I am currently developing (or have developed):
     <br>
     🌱 I’m currently learning image processing techniques.
     <br>
-    👯 I’m looking to collaborate on developing MagnaPY (and my other projects).
+     <br>
+    🌱 I am also making the slow (but certain) transition towards Machine Learning.
+    <br>
 </ol>
 
 ### Contact :bookmark_tabs: 
