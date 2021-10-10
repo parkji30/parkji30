@@ -1,6 +1,8 @@
 ### Hi There 👋
 My name is James Park and I am currently a research scientist at Queens University studying the role of magnetic fields in star formation.
 
+On the side, I work for WFHomie as a software developer!
+
 I enjoy developing open source software to aid other scientists in their research. 
 I am currently developing (or have developed):
 <ol>  
