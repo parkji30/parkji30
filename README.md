@@ -7,8 +7,9 @@ I enjoy developing open source software to aid other scientists in their researc
 
 I am currently developing (or have developed):
 <ol>  
-    <ul> MagnaPY- a compression optimization software that can be used in any data pipeline.</ul>
-    <ul> MDCF - The Modified Davis Chandrasekhar Fermi Method which calcualtes a magnetic field strength based off polarization data.</ul>
+    MagnaPY- a compression optimization software that can be used in any data pipeline.
+    <br>
+    MDCF - The Modified Davis Chandrasekhar Fermi Method which calcualtes a magnetic field strength based off polarization data.
 </ol>
 
 ### Interests :atom:
