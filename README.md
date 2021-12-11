@@ -17,7 +17,6 @@ I am currently developing :computer: (or have developed) :
 ### Interests :atom:
 🔭 My focus is on studying magnetism in star forming regions.
 <ol> 
-    <br>
     🌱 Dark Matter- lol what is this.
     <br>
     🌱 Machine Learning- a.k.a glorified curve fitting.
