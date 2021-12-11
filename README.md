@@ -1,5 +1,5 @@
 ### Hi There 👋
-My name is James Park and I am a Physicist at Queen's University studying the role of magnetic fields in star formation. 
+My name is James Park and I am a some dude at Queen's University studying the role of magnetic fields in star formation. 
 
 Outside of academia, I work as a Machine Learning Scientist for RBC (The Royal Bank of Canada)
 
