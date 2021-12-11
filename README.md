@@ -7,20 +7,20 @@ I enjoy developing open source software to aid other scientists in their researc
 
 I am currently developing :computer: (or have developed) :
 <ol>  
-     MagnaPY- a compression optimization software that can be used in any data pipeline.
+     MagnaPY -- a compression optimization software that can be used in any data pipeline.
     <br>
-     MDCF - The Modified Davis Chandrasekhar Fermi Method which calcualtes a magnetic field strength based off polarization data.
+     MDCF -- The Modified Davis Chandrasekhar Fermi Method which calcualtes a magnetic field strength based off polarization data.
     <br> 
-     ICS - An Image Compression Simulator that analyzes the pre and post compression effect on simulated images generated through Monte Carlo methods.
+     ICS -- An Image Compression Simulator that analyzes the pre and post compression effect on simulated images generated through Monte Carlo methods.
 </ol>
 
 ### Interests :atom:
 🔭 My focus is on studying magnetism in star forming regions.
 <ol> 
     🌱
-    I am fascinated by Dark Matter and am planning to work on the GigaBIT Project, a mission aimed to understanding the mass-energy content of Dark Matter.
+    Dark Matter, lol what is this.
     <br>
-    I am also fascinated with applications of Machine Learning and how they will change the landscape of quantiative research fields.
+    Machine Learning, a.k.a glorified curve fitting.
     <br>
 </ol>
 
