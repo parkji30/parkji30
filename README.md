@@ -1,7 +1,5 @@
 ### Hi There 👋
-My name is James Park and I am a research scientist at Queen's University studying the role of magnetic fields in star formation. 
-
-I enjoy developing open source software to aid other scientists in their research. 
+My name is James Park and I am an incoming Data Scientist at TD Bank. 
 
 I am currently developing :computer: (or have developed) :
 <ol>  
@@ -11,7 +9,6 @@ I am currently developing :computer: (or have developed) :
 </ol>
 
 ### Interests :atom:
-🔭 My focus is on studying magnetism in star forming regions.
 <ol> 
     :snowflake: Abstract Algebra
     <br>
