@@ -12,7 +12,7 @@ I am currently developing :computer: (or have developed) :
 <ol> 
     :snowflake: Abstract Algebra
     <br>
-    🌱 Machine Learning
+    🌱 Federated Learning
     <br>
 </ol>
 
