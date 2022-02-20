@@ -6,6 +6,8 @@ I am currently developing :computer: (or have developed) :
      MagnaPY -- a compression optimization software that can be used in any data pipeline.
     <br>
      MDCF -- The Modified Davis Chandrasekhar Fermi Method which calcualtes a magnetic field strength based off polarization data.
+     <br>
+     Astronomy Automated -- A ETL pipeline to automate the data processing work done by Astrometry.
 </ol>
 
 ### Interests :atom:
