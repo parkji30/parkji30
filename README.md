@@ -3,7 +3,7 @@ My name is James Park and I am an incoming Data Scientist at TD Bank.
 
 I am currently developing :computer: (or have developed) :
 <ol>  
-     MagnaPY -- a compression optimization software that can be used in any data pipeline.
+     <ul>MagnaPY</ul> -- a compression optimization software that can be used in any data pipeline.
     <br>
      MDCF -- The Modified Davis Chandrasekhar Fermi Method which calcualtes a magnetic field strength based off polarization data.
      <br>
