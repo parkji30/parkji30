@@ -1,14 +1,9 @@
 ### Hi There 👋
 My name is James Park and I am an incoming Data Scientist at TD Bank. 
 
-I am currently developing :computer: (or have developed) :
-<ol>  
-     <ul>MagnaPY</ul> -- a compression optimization software that can be used in any data pipeline.
-    <br>
-     MDCF -- The Modified Davis Chandrasekhar Fermi Method which calcualtes a magnetic field strength based off polarization data.
-     <br>
-     Astronomy Automated -- A ETL pipeline to automate the data processing work done by Astrometry.
-</ol>
+I have developed a couple of useful tools for astronomers that can be found in my repository.
+
+Currently, I am interested in returning to graduate school to pursue an PhD in math. 
 
 ### Interests :atom:
 <ol> 
