@@ -7,9 +7,9 @@ Currently, I am interested in returning to graduate school to pursue an PhD in m
 
 ### Interests :atom:
 <ol> 
-    :snowflake: Abstract Algebra
+    :snowflake: Math Modelling
     <br>
-    🌱 Federated Learning
+    🌱 Deep Learning
     <br>
 </ol>
 
