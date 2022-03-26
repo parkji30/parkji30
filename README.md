@@ -5,7 +5,7 @@ My name is James Park. Apologies for my terribly documented and horribly formatt
 <ol> 
     :snowflake: Math Modeling
     <br>
-    🌱 Deep Learning
+    🌱 Probability Theory
     <br>
 </ol>
 
