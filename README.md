@@ -1,9 +1,5 @@
 ### Hi There 👋
-My name is James Park and I am an incoming Data Scientist at TD Bank. 
-
-I have developed a couple of useful tools for astronomers that can be found in my repository.
-
-Currently, I am interested in returning to graduate school to pursue an PhD in math. 
+My name is James Park. Apologies for my terribly documented and horribly formatted code.
 
 ### Interests :atom:
 <ol> 
