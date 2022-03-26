@@ -7,7 +7,7 @@ Currently, I am interested in returning to graduate school to pursue an PhD in m
 
 ### Interests :atom:
 <ol> 
-    :snowflake: Math Modelling
+    :snowflake: Math Modeling
     <br>
     🌱 Deep Learning
     <br>
