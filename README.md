@@ -7,9 +7,9 @@ I am also a Data Scientist at TD Banking Group.
 
 ### Interests :atom:
 <ol> 
-    :snowflake: Math Modeling
+    :snowflake: Compression Algorithms
     <br>
-    🌱 Probability Theory
+    🌱 Measure Theory
     <br>
 </ol>
 
