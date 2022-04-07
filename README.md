@@ -1,7 +1,7 @@
 ### Hi There 👋
 My name is James Park. 
 
-I am a Math PhD student at York University studying specializing in modelling and probability.
+I am a Math PhD student at York University specializing in modelling and probability.
 
 I am also a Data Scientist at TD Banking Group.
 
