@@ -15,3 +15,5 @@ I am also a Data Scientist at TD Banking Group.
 
 ### Contact :bookmark_tabs: 
 Email- jp7dec23@gmail.com
+
+![image title](https://rushter.com/counter.svg)
