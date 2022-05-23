@@ -9,7 +9,7 @@ I am also a Data Scientist at TD Banking Group.
 <ol> 
     :snowflake: Compression Algorithms
     <br>
-    🌱 Measure Theory
+    🌱 Optimization Techniques
     <br>
 </ol>
 
