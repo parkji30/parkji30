@@ -9,11 +9,10 @@ just a Masters degree.
 
 Currently, I am a Machine Learning Innovation Scientist at TD Banking Group working
 on innovation solutions in the Natural Language Processing (NLP) domain and i
-Reinforcment Learning models.
+Reinforcment Learning models. 
 
-My other projects involve big data analysis using PySpark. I am grateful for being 
-given this opportunity and would like to pay my dues forward for anyone seeking
-advice.
+My other projects involve big data analysis using PySpark. 
+
 
 ### Interests :atom:
 <ol> 
