@@ -1,7 +1,7 @@
 ### Hi There 👋
 My name is James Park. 
 
-In my past life, I was a Physicist working on the advancing the theory of Star Formation. Now, I want to extend that passion to the industry and work on the most challenging and innovative products.
+In my past life, I was a Physicist working on the advancing the theory of Star Formation. Now, I want to extend that passion in the industrial setting and work on the most challenging and innovative products.
 
 Currently, I am a Machine Learning Innovation Scientist at TD Banking Group working on innovation solutions in the Natural Language Processing (NLP) and Reinforcment Learning domain. My other projects involve big data analysis using PySpark. 
 
