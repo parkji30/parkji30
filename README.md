@@ -1,18 +1,9 @@
 ### Hi There 👋
 My name is James Park. 
 
-In my past life, I was a Physicist working on the advancing the theory
-of Star Formation. I've always wanted to pursue a Ph.D., to work on the coolest
-and most ground breaking problems in industry. However, my colleagues have shown
-me that this is not necessary and thus, I have decided to exit academia with
-just a Masters degree.
+In my past life, I was a Physicist working on the advancing the theory of Star Formation; now, I want to work on the most exciting problems that the industry has to offer.
 
-Currently, I am a Machine Learning Innovation Scientist at TD Banking Group working
-on innovation solutions in the Natural Language Processing (NLP) domain and i
-Reinforcment Learning models. 
-
-My other projects involve big data analysis using PySpark. 
-
+Currently, I am a Machine Learning Innovation Scientist at TD Banking Group working on innovation solutions in the Natural Language Processing (NLP) and Reinforcment Learning domain. My other projects involve big data analysis using PySpark. 
 
 ### Interests :atom:
 <ol> 
@@ -21,6 +12,7 @@ My other projects involve big data analysis using PySpark.
     🌱 NLP and Reinforcement Learning
     <br>
 </ol>
+
 
 ### Contact :bookmark_tabs: 
 Email- jp7dec23@gmail.com
