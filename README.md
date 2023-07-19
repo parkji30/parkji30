@@ -1,2 +1,5 @@
 ### Contact :bookmark_tabs: 
-Email- jp7dec23@gmail.com
+
+Currently at Xanadu Quantum Techonologies.
+
+Email- james.park@xanadu.ai
